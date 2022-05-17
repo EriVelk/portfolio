@@ -13,9 +13,9 @@ export const products = [
     },
     {
       id: 3,
-      img: "",
-      link: "https://github.com/EriVelk",
-      title:"Medicament API"
+      img: "https://i.ibb.co/fY8gx4T/merge-from-ofoct.jpg",
+      link: "https://drive.google.com/file/d/13moAGYTssYAO7m-3RpIzgN-OO96G_Nsh/view?usp=sharing",
+      title:"Medicament APP"
     },
     {
       id: 4,
