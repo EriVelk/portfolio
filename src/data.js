@@ -31,8 +31,8 @@ export const products = [
     },
     {
       id: 6,
-      img: "",
-      link: "https://github.com/EriVelk",
-      title:"Library APP"
+      img: "https://i.ibb.co/k575sv3/portfolio.png",
+      link: "https://github.com/EriVelk/portfolio",
+      title:"Portfolio REACT"
     },
   ];
