@@ -35,4 +35,10 @@ export const products = [
       link: "https://github.com/EriVelk/portfolio",
       title:"Portfolio REACT"
     },
+    {
+      id: 7,
+      img: "https://i.ibb.co/nm7GDq8/apimed.png",
+      link: "https://github.com/EriVelk/medicaments-app",
+      title:"API REST for Medicament APP"
+    },
   ];
