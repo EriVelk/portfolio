@@ -19,7 +19,7 @@ export const products = [
     },
     {
       id: 4,
-      img: "",
+      img: "https://i.ibb.co/Hgm9ZtL/booking.jpg",
       link: "https://github.com/EriVelk",
       title:"Booking REACT"
     },
