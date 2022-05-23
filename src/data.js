@@ -20,7 +20,7 @@ export const products = [
     {
       id: 4,
       img: "https://i.ibb.co/Hgm9ZtL/booking.jpg",
-      link: "https://github.com/EriVelk",
+      link: "https://booking-dun.vercel.app/",
       title:"Booking REACT"
     },
     {
