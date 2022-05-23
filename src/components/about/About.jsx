@@ -1,6 +1,6 @@
 import React from 'react'
 import './About.css'
-import Award from "../../img/award.png";
+import Award from "../../img/mern.png";
 
 const About = () => {
     return (
@@ -25,7 +25,7 @@ const About = () => {
                 <div className="a-award">
           <img src={Award} alt="" className="a-award-img" />
           <div className="a-award-texts">
-            <h4 className="a-award-title">International Design Awards 2021</h4>
+            <h4 className="a-award-title">MERN Developer</h4>
             <p className="a-award-desc">
               Nemo enim ipsam voluptatem quia voluptas sit aspernatur autodit
               and fugit.
