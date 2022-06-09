@@ -5,6 +5,7 @@ import ProductList from "./components/productList/ProductList";
 import Toggle from "./components/toggle/Toggle";
 import { useContext } from "react";
 import { ThemeContext } from "./context";
+import Progress from "./components/progress/Progress";
 
 
 const App = () => {
@@ -18,6 +19,7 @@ const App = () => {
       <Toggle />
       <Intro />
       <About />
+      <Progress/>
       <ProductList />
       <Contact />
     </div>

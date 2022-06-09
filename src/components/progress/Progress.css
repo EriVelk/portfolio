@@ -1,0 +1,33 @@
+ 
+  .p {
+    height: auto;
+    width: auto;
+    display: list-item;
+    align-items: center;
+    text-align: center;
+  }
+
+  .p-left {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    height: 100%;
+  }
+  
+  .p-right {
+    flex: 1;
+  }
+
+  .p-tiem{
+    display: block;
+  }
+
+  progress {
+    -webkit-appearance: none;
+  }
+  
+  ::-webkit-progress-bar {
+     background-color: rgba(255, 166, 0, 0.158);
+  }
