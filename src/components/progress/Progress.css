@@ -1,5 +1,5 @@
  
-  .p {
+  .rog {
     height: auto;
     width: auto;
     display: list-item;
@@ -7,7 +7,7 @@
     text-align: center;
   }
 
-  .p-left {
+  .rog-left {
     flex: 1;
     display: flex;
     align-items: center;
@@ -16,11 +16,11 @@
     height: 100%;
   }
   
-  .p-right {
+  .rog-right {
     flex: 1;
   }
 
-  .p-tiem{
+  .rog-tiem{
     display: block;
   }
 
