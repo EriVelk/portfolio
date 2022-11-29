@@ -16,10 +16,9 @@ const Contact = () => {
         e.preventDefault();
         emailjs.sendForm('service_yxdou8p', 'template_a9vo6js', formRef.current, '-JW1UUqYwHhXpfgtx')
             .then((result) => {
-                console.log('SUCCESS!', result.status, result.text);
+                window.location.reload();
                 setDone(true)
             }, (error) => {
-                console.log('FAILED...', error);
             });
     }
     return (
