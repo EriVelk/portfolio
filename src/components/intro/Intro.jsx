@@ -11,6 +11,9 @@ const Intro = () => {
                     <h1 className='i-name'>Erick Veliz</h1>
                     <div className='i-title'>
                         <div className='i-title-wrapper'>
+                        <div className='i-title-item'>
+                                JAVA
+                            </div>
                             <div className='i-title-item'>
                                 Back End
                             </div>
@@ -18,7 +21,7 @@ const Intro = () => {
                                 Android
                             </div>
                             <div className='i-title-item'>
-                                SpringBoot
+                                Spring Boot
                             </div>
                             <div className='i-title-item'>
                                 Node JS
@@ -28,6 +31,9 @@ const Intro = () => {
                             </div>
                         </div>
                     </div>
+                    <p className='i-desc'>
+                        I'm a JAVA developer
+                    </p>
                     <p className='i-desc'>
                         I design and develop services backend for customer, specialling in creating REST API with Node JS, Spring Boot and NextJS.
                         Also, in the implementation of services.

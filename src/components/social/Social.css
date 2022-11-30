@@ -13,28 +13,41 @@
     list-style: none;
 }
 
+.facebook{
+    transition: transform 2s;
+}
+
 .facebook:hover{
-    background-color: rgba(13, 128, 228, 0.541) !important;
-    border-radius: 15px;
+    transform: rotate(360deg);
+}
+
+.twitter{
+    transition: transform 2s;
 }
 
 .twitter:hover{
-    background-color: rgba(113, 189, 255, 0.541) !important;
-    border-radius: 15px;
+    transform: rotate(360deg);
+}
+
+.instagram{
+    transition: transform 2s;
 }
 
 .instagram:hover{
-    background-color: rgba(228, 142, 13, 0.541) !important;
-    border-radius: 15px;
+    transform: rotate(360deg);
+}
+.github{
+    transition: transform 2s;
 }
 
 .github:hover{
-    background-color: rgba(0, 0, 0, 0.541) !important;
-    border-radius: 15px;
+    transform: rotate(360deg);
+}
+.linkedin{
+    transition: transform 2s;
 }
 
 .linkedin:hover{
-    background-color: rgba(1, 137, 255, 0.541) !important;
-    border-radius: 15px;
+    transform: rotate(360deg);
 }
 
