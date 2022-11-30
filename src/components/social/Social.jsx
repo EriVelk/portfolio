@@ -21,7 +21,7 @@ const Social = () => {
                     </a>
                 </li>
                 <li>
-                    <a href='https://www.linkedin.com/in/erick-veliz-5a40331b9/?locale=en_US' target={"_blank"} rel={"noreferrer"}>
+                    <a href='https://www.linkedin.com/in/erick-veliz-5a40331b9/' target={"_blank"} rel={"noreferrer"}>
                         <img src="https://i.ibb.co/GV2NcsR/linkedin.png" alt="linkedin" border="0" className='linkedin'/>
                     </a>
                 </li>
