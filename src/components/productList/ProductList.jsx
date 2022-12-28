@@ -11,6 +11,8 @@ const ProductList = () => {
             <p className='pl-desc'>
                 Veliz is a creative portfolio that your word has been waiting for.
                 Beautiful homes, stunning portfolio styles & a whole lot more awaits inside.
+
+                Some projects take time to fully load because the servers go into a dormant state
             </p>
         </div>
         <div className='pl-list'>
