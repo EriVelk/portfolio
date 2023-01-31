@@ -47,4 +47,10 @@ export const products = [
       link: "https://www.youtube.com/watch?v=iLpBzbO2BSI",
       title:"APP Android Security City"
     },
+    {
+      id: 8,
+      img: "https://i.ibb.co/q5tJYZN/Selenium.png",
+      link: "https://github.com/EriVelk/library-selenium",
+      title:"Selenium Web Driver Project"
+    },
   ];
