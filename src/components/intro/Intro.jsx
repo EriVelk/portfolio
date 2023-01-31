@@ -11,15 +11,24 @@ const Intro = () => {
                     <h1 className='i-name'>Erick Veliz</h1>
                     <div className='i-title'>
                         <div className='i-title-wrapper'>
-                        <div className='i-title-item'>
+                            <div className='i-title-item'>
                                 JAVA
+                            </div>                                                         
+                            <div className='i-title-item'>
+                                JavaScript
+                            </div>                     
+                            <div className='i-title-item'>
+                                VisualBasic
+                            </div>                          
+                            <div className='i-title-item'>
+                                Android
                             </div>
                             <div className='i-title-item'>
                                 Back End
                             </div>
                             <div className='i-title-item'>
-                                Android
-                            </div>
+                                Selenium
+                            </div> 
                             <div className='i-title-item'>
                                 Spring Boot
                             </div>
