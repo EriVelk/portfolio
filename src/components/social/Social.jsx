@@ -7,7 +7,7 @@ const Social = () => {
             <ul className='menu-social'>
                 <li>
                     <a href='https://www.facebook.com/erick.veliz.16144/' target={"_blank"} rel={"noreferrer"}>
-                        <img src="https://i.ibb.co/pvn53dd/twitter.png" alt="facebook" border="0" className='facebook'/>
+                        <img src="https://i.ibb.co/Hx1svRr/facebook.png" alt="facebook" border="0" className='facebook'/>
                     </a>
                 </li>
                 <li>
@@ -17,7 +17,7 @@ const Social = () => {
                 </li>
                 <li>
                     <a href='https://twitter.com/erve_pud' target={"_blank"} rel={"noreferrer"}>
-                        <img src="https://i.ibb.co/YtBNsGq/twitter.png" alt="twitter" border="0" className='twitter'/>
+                        <img src="https://i.ibb.co/YL8J34H/x.png" alt="twitter" border="0" className='twitter'/>
                     </a>
                 </li>
                 <li>
