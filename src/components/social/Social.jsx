@@ -7,7 +7,7 @@ const Social = () => {
             <ul className='menu-social'>
                 <li>
                     <a href='https://www.facebook.com/erick.veliz.16144/' target={"_blank"} rel={"noreferrer"}>
-                        <img src="https://i.ibb.co/Hx1svRr/facebook.png" alt="facebook" border="0" className='facebook'/>
+                        <img src="https://i.ibb.co/pvn53dd/twitter.png" alt="facebook" border="0" className='facebook'/>
                     </a>
                 </li>
                 <li>
