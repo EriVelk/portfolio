@@ -14,7 +14,7 @@ const Contact = () => {
 
     const handleSubmit = (e) => {
         e.preventDefault();
-        emailjs.sendForm('service_yxdou8p', 'template_a9vo6js', formRef.current, '-JW1UUqYwHhXpfgtx')
+        emailjs.sendForm('', '', formRef.current, '')
             .then((result) => {
                 window.location.reload();
                 setDone(true)
